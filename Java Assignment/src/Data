@@ -1,0 +1,4 @@
+Create a class BankingSystem with a method named transaction which takes String transactionType as parameter.
+Create a class UnsupportedTransactionException.
+In the transaction method use a switch statement to check if transactionType is of: credit, debit, balanceInquiry and pinChange. If the transactionType is other than these types then throw Unsupported Transaction Exception.
+Code should effectively handle exception scenario
