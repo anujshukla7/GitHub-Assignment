@@ -78,6 +78,7 @@ public class Tax {
 			System.out.println("\n");
 			System.out.println("Salestax :" + totalTax);
 			System.out.println("total:" + finalPrice);
+                  System.out.println("total price");
 
 
 
